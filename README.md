@@ -17,4 +17,10 @@ This mini-project uses an Intel RealSense D435 camera and RTAB-Map on ROS2 to pe
   colcon build
   source install/setup.bash
 
+## Results
+![Screenshot from 2025-03-09 23-22-22](https://github.com/user-attachments/assets/4cef13b3-1146-416c-89a9-16bf18b18bcf)
+![Screenshot from 2025-03-09 23-22-45](https://github.com/user-attachments/assets/c4d6435b-40d8-4499-8217-f1b71b84f03a)
+![Screenshot from 2025-03-09 23-23-13](https://github.com/user-attachments/assets/cd8d7dab-7aca-4d9f-b440-4020a9e00cd7)
+![Screenshot from 2025-03-09 23-23-46](https://github.com/user-attachments/assets/b8766dc9-30bf-4570-9809-68dd57bb2c33)
+
 <!-- Updated to main branch, May 2025 -->
